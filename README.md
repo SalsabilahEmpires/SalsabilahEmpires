@@ -1,7 +1,9 @@
 
 🌍 MD. AL AMIN SOHAG | Global Strategic Researcher
 Founder of Salsabilah Amin Empires | Developer of 'The Digit Theory'
-A visionary researcher committed to redefining innovation, industrial resilience, and global strategy through advanced system architecture and mathematical modeling.
+<p align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DSalsabilahEmpires%26show_icons%3Dtrue%26theme%3Dradical%26hide_border%3Dtrue" alt="GitHub Stats" />
+</p>
 🔬 Core Research & Proprietary Frameworks
 🔢 The Digit Theory: A proprietary mathematical blueprint redefining money as a variable within a systematic business flow.
 🧪 The SOHAG Filter: A unique logistics and decision-making framework designed to streamline complex operations and industrial efficiency.
