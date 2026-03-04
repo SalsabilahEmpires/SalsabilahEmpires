@@ -1,5 +1,4 @@
-
-🌍 MD. AL AMIN SOHAG | Global Strategic Researcher
+ MD. AL AMIN SOHAG | Global Strategic Researcher
 Founder of Salsabilah Amin Empires | Developer of 'The Digit Theory'
 <p align="center">
 <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DSalsabilahEmpires%26show_icons%3Dtrue%26theme%3Dradical%26hide_border%3Dtrue" alt="GitHub Stats" />
