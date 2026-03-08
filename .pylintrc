@@ -1,0 +1,11 @@
+
+# Ignore non-essential directories
+ignore=tests,docs
+
+[MESSAGES CONTROL]
+# Disable noisy warnings (like missing docstrings for trivial items)
+disable=C0114, C0115, C0116
+
+[FORMAT]
+# Ensure consistent indentation and line length
+max-line-length=88
